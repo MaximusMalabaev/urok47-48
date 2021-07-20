@@ -2,8 +2,6 @@ Laptop
 Mouse
 keyboard
 microphonwe
-КлавиатураФлаг
+Клавиатура
 Флаг
 Bag
-Флаг
-Флаг
